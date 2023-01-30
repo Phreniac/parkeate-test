@@ -14,7 +14,7 @@
         </ul>
       </div>
     </div>
-    <div class="footer__floating-logos">
+    <!-- <div class="footer__floating-logos">
       <div class="footer_logo">
         <img src="./src/assets/img/twitter_logo.png/" alt="" />
       </div>
@@ -24,7 +24,7 @@
       <div class="footer_logo">
          <img src="./src/assets/img/ig_logo.png/" alt="" />
       </div>
-    </div>
+    </div> -->
   </footer>
 </template>
 <script setup>
