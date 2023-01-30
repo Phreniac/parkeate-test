@@ -1,0 +1,40 @@
+.user-slider {
+    height: 300px;
+    width: 100%;
+    background-color: var(--rc-yellow);
+    color: black;
+    margin-bottom: 100px;
+}
+
+.user-info {
+    margin: 30px;
+}
+
+// .carousel-inner {
+//     height: 100%;
+// }
+
+// .carousel {
+//     height: 100%;
+// }
+
+// .carousel-item {
+//     display: flex;
+//     align-items: center;
+//     height: 100%;
+// }
+
+// .carousel-item.active {
+//     display: flex !important;
+//     align-items: center;
+//     height: 100%;
+// }
+
+@media screen and (max-width: 768px) {
+
+
+    .user-slider {
+
+        display: none;
+    }
+}

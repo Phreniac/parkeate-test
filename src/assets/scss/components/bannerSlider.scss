@@ -1,0 +1,30 @@
+.banner-slider {
+    height: 250px;
+    width: 100%;
+}
+
+.carousel-inner {
+    height: 100%;
+}
+
+.carousel {
+    height: 100%;
+}
+
+.carousel-item {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.carousel-item.active {
+    display: flex !important;
+    align-items: center;
+    height: 100%;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    width: 100px !important;
+    height: 100px !important;
+}

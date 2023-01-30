@@ -1,0 +1,41 @@
+.variety {
+    height: 100%;
+    width: 100%;
+
+    &__container {
+        position: relative;
+    }
+
+    &__searcher {
+        position: absolute;
+        right: 20px;
+        top: -40px;
+        width: 300px;
+
+        input {
+            width: 100%;
+            padding: 0px 15px;
+            height: 35px;
+            border-radius: 15px;
+            border: 1px solid rgba(0, 0, 0, 0.2)
+        }
+    }
+
+    &__title {
+        padding-top: 20px;
+        margin-top: 70px;
+    }
+
+    &__product-image {
+        height: 230px;
+        text-align: center;
+
+        img {
+            height: 100%;
+        }
+    }
+
+    &__product-name {
+        text-align: center;
+    }
+}
