@@ -27,7 +27,7 @@
 </template>
 
 <script setup>
-import '@/assets/scss/components/SimpleContent.scss';
+import '@/assets/scss/components/simpleContent.scss';
 const props = defineProps({
   image: String,
     text: String,
