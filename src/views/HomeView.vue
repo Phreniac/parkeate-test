@@ -2,6 +2,7 @@
   <main>
     <Navbar />
     <BannerSlider />
+    asd
     <div class="container" v-for="(content, i) in content_data" :key="i">
       <SimpleContent
         :text="content.text"
